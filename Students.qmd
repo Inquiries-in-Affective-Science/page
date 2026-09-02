@@ -3,8 +3,6 @@ title: "Students"
 format: html
 ---
 
-## Students
-
 ### Current and Former Graduate Students
 
 - Tierel Hood-Nellum
