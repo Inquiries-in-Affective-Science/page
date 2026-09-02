@@ -5,7 +5,3 @@ title: "IAS"
 ## Home page of the Inquires into Affective Science lab
 
 still in development
-
-```{r}
-install.packages('use')
-```
