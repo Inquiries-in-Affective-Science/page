@@ -1,0 +1,15 @@
+{
+  "hash": "04b09272c0f7da963d7a248a2aef5f7a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"IAS\"\n---\n\nInquires into Affective Science\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 1\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

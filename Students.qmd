@@ -1,0 +1,36 @@
+---
+title: "Students"
+format: html
+---
+
+## Students
+
+### Current and Former Graduate Students
+
+- Tierel Hood-Nellum
+
+- Sara Swaneck
+
+- Joia L. Wesley, MA
+
+- Keara J. Kangas, PhD
+
+- Sydney C. Timmer, PhD
+
+- Samantha A. Chesney, PhD
+
+### Undergraduate Students
+
+What will this lab experience provide to undergraduate students?
+
+Learning to use physiological recording equipment
+
+Analyzing physiological data
+
+Testing participants in the lab
+
+Data entry using SPSS
+
+Assisting in research development and implementation
+
+Opportunity to present work at regional conference
