@@ -1,0 +1,15 @@
+{
+  "hash": "71e15596678ac1af9b0f37c8fee96709",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Students\"\nformat: html\n---\n\n## Students\n\n### Current and Former Graduate Students\n\n- Tierel Hood-Nellum\n\n- Sara Swaneck\n\n- Joia L. Wesley, MA\n\n- Keara J. Kangas, PhD\n\n- Sydney C. Timmer, PhD\n\n- Samantha A. Chesney, PhD\n\n### Undergraduate Students\n\nWhat will this lab experience provide to undergraduate students?\n\nLearning to use physiological recording equipment\n\nAnalyzing physiological data\n\nTesting participants in the lab\n\nData entry using SPSS\n\nAssisting in research development and implementation\n\nOpportunity to present work at regional conference\n\n\n::: {.cell}\n\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
