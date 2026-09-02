@@ -1,7 +1,5 @@
 ---
-title: "IAS"
+title: "Home page of the Inquires into Affective Science lab"
 ---
-
-## Home page of the Inquires into Affective Science lab
 
 still in development
