@@ -6,8 +6,6 @@ website:
   title: "Inquires in Affective Science"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - Students.qmd
       - Projects.qmd
       - About.qmd
